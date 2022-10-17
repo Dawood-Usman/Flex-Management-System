@@ -1,0 +1,7 @@
+20F-1001
+Digital Electronics
+10
+System Design
+20
+Motor Control
+30
